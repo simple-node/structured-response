@@ -1,7 +1,7 @@
 {
   "name": "@simple-node/structured-response",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "This repository contains classes for handling API responses in JavaScript/TypeScript. These classes provide a structured and consistent way of handling both successful and error API responses.",
   "type": "module",
   "main": "dist/index.mjs",
   "scripts": {
@@ -9,7 +9,7 @@
     "build": "babel src -d dist --out-file-extension .mjs"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.21.0",
     "@babel/core": "^7.21.4",
@@ -17,7 +17,5 @@
   },
   "engines": {
     "node": ">=14.17.0"
-  },
-  "dependencies": {
   }
 }
