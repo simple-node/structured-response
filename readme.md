@@ -1,5 +1,3 @@
-# API Response Classes
-
 This repository contains classes for handling API responses in JavaScript/TypeScript. These classes provide a structured and consistent way of handling both successful and error API responses.
 
 ## APIErrorTypes
